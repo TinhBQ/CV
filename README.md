@@ -1,5 +1,3 @@
 # CV
 
-![](./TinhBQ_CV_1.png)
-
-![](./TinhBQ_CV_2.png)
+![](./src/CV_BuiQuocTinh_0946541256.pdf)
